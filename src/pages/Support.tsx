@@ -14,11 +14,11 @@ const Support = () => {
   };
 
   const handleWhatsAppSupport = () => {
-    window.open("https://wa.me/234902319221", "_blank");
+    window.open("https://wa.me/2349073211686", "_blank");
   };
 
   const handleEmailSupport = () => {
-    window.location.href = "mailto:redpaycompanys@gmail.com";
+    window.location.href = "mailto:redpaylimited96@gmail.com";
   };
 
   const handleLiveChat = () => {
